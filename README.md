@@ -19,6 +19,12 @@ Hello there, my friends!
 - 💻 Trying to set up my own ESX base
 - 📗 Studying IT orientation
 
+### ⚙️ &nbsp;GitHub Analytics
+
+![MEBYTEX's Stats](https://github-readme-stats.vercel.app/api?username=MEBYTEX&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+
+
 
 
 
