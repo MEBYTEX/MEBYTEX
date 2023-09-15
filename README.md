@@ -21,8 +21,14 @@ Hello there, my friends!
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![MEBYTEX's Stats](https://github-readme-stats.vercel.app/api?username=MEBYTEX&theme=dark&show_icons=true&hide_border=false&count_private=true)
+<p align="center">
+<a href="https://github.com/MEBYTEX">
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=MEBYTEX&cc=000&tc=fff&ic=fff&bc=000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=electrizzrap&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=electrizzrap&redirect=true)
 
 
 
