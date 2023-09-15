@@ -13,7 +13,7 @@
 
 ---
 
-📍 **I’m looking for help with ESX - Fivem.** 
+📍 **I’m looking for help with ESX - LUA.** 
 <p align="right">
   <img width="150" height="100" src="https://media.discordapp.net/attachments/881753318727225348/1152223241264443402/FiveM-Logo.png" alt="Texto alternativo">
 </p>
