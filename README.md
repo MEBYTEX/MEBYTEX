@@ -13,7 +13,7 @@ Hello there, my friends!
 
 ## ABOUT ME
 
-- 📘 Learning Java at the Artigas Technical School
+- 📘 Learning Java at the Escuela Tecnica de Artigas
 - 📕 Looking for help with ESX - LUA
 - 🎥 I take high quality photos at FIVEM
 - 💻 Trying to set up my own ESX base
