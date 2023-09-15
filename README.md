@@ -20,10 +20,11 @@ Hello there, my friends!
 ## ABOUT ME
 
 - 📘 Learning Java at the Escuela Tecnica de Artigas
-- 📕 Looking for help with ESX - LUA
+- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346207214125116/1_A240hQnv-DQsFRGuKhiOTw.png" width="28"> Looking for help with ESX - LUA
 - 🎥 I take high quality photos at FIVEM
-- 💻 Trying to set up my own ESX base
+- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152345197502529617/blanc-800x800_1.png" width="28"> Trying to set up my own ESX base
 - 📗 Studying IT orientation
+- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346813286854796/Bash_Logo_Colored.svg.png" width="20"> Doing some things with bash
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
 
