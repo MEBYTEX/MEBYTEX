@@ -24,7 +24,7 @@ Hello there, my friends!
 - 🎥 I take high quality photos at FIVEM
 - <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152345197502529617/blanc-800x800_1.png" width="28"> Trying to set up my own ESX base
 - 📗 Studying IT orientation
-- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346813286854796/Bash_Logo_Colored.svg.png" width="20"> Doing some things with bash
+- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346813286854796/Bash_Logo_Colored.svg.png" width="20"> Learning things in bash
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
 
