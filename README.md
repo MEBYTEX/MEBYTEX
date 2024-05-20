@@ -20,8 +20,7 @@ Hello there, my friends!
 
 - 📘 Learning HTML, PHP and DB ADMINISTRATION
 - <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346207214125116/1_A240hQnv-DQsFRGuKhiOTw.png" width="28"> Working with DAMM STUDIO
-- 🎥 I take high quality photos at FIVEM
-- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152345197502529617/blanc-800x800_1.png" width="28"> Making my own ESX BASE
+- <img src="[https://cdn.discordapp.com/attachments/881753318727225348/1152346207214125116/1_A240hQnv-DQsFRGuKhiOTw.png](https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png)" width="28"> Using BOOTSTRAP
 - 📗 Studying IT WEB orientation
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
