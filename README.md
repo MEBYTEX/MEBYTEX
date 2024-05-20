@@ -19,8 +19,8 @@ Hello there, my friends!
 ## ABOUT ME
 
 - 📘 Learning HTML, PHP and DB ADMINISTRATION
-- <img src="https://cdn.discordapp.com/attachments/881753318727225348/1152346207214125116/1_A240hQnv-DQsFRGuKhiOTw.png" width="28"> Working with DAMM STUDIO
-- <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" width="28"> Using BOOTSTRAP
+- Working with DAMM STUDIOS
+- Using BOOTSTRAP
 - 📗 Studying IT WEB orientation
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
