@@ -18,9 +18,9 @@ Hello there, my friends!
 
 ## ABOUT ME
 
-- 📘 Learning HTML, PHP and DB ADMINISTRATION
-- Working with DAMM STUDIOS
-- Using BOOTSTRAP
+- 📚 Learning HTML, PHP and DB ADMINISTRATION
+- 💻 Working with DAMM STUDIOS
+- 📘 Using BOOTSTRAP
 - 📗 Studying IT WEB orientation
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
