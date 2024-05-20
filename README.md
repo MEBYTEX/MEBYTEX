@@ -31,12 +31,7 @@ Hello there, my friends!
       <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=MEBYTEX&cc=000&tc=fff&ic=fff&bc=000"/>
     </a>
   </div>
-  <div>
-    <a href="https://skillicons.dev/icons?i=java,eclipse,github,bash">
-      <img src="https://skillicons.dev/icons?i=java,eclipse,github,bash" alt="My Skills"/>
-    </a>
-  </div>
-</div>
+  
 
 
 
