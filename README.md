@@ -5,7 +5,9 @@ Hello there, my friends!
 
 <p align="center">
 <img width="50%" src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif"><br>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=LEARNING+HTML;LEARNING+PHP;LEARNING+DATA+BASE;BOOTSTRAP" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=LEARNING+HTML;LEARNING+PHP;LEARNING+DATA+BASE;BOOTSTRAP" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=electrizzrap&redirect=true">
