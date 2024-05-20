@@ -18,7 +18,7 @@ Hello there, my friends!
 
 ## ABOUT ME
 
-- 📚 Learning HTML, PHP and DB ADMINISTRATION
+- 📚 Learning HTML, PHP and DATABASE ADMINISTRATION
 - 💻 Working with DAMM STUDIOS
 - 📘 Using BOOTSTRAP
 - 📗 Studying IT WEB orientation
