@@ -20,7 +20,7 @@ Hello there, my friends!
 
 - 📚 Learning HTML, PHP and DATABASE ADMINISTRATION
 - 💻 Working with DAMM STUDIOS
-- 📘 Using BOOTSTRAP
+- 📘 Using HTML, CSS, PHP, MARIADB
 - 📗 Studying IT WEB orientation
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
