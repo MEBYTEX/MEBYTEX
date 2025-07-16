@@ -18,10 +18,8 @@ Hello there, my friends!
 
 ## ABOUT ME
 
-- 📚 Learning HTML, PHP and DATABASE ADMINISTRATION
-- 💻 Working with DAMM STUDIOS
-- 📘 Using HTML, CSS, PHP, MARIADB
-- 📗 Studying IT WEB orientation
+- 📚 Learning HTML, JS and CSS.
+- 📘 Using HTML, JS and CSS
 
 ### ⚙️ &nbsp;GitHub Analytics & Stats
 
